@@ -1,0 +1,41 @@
+C:\Users\Sergey\source\repos\Com_Methods\Com_Methods\obj\Debug\Com_Methods.csprojResolveAssemblyReference.cache
+C:\Users\Sergey\source\repos\Com_Methods\Com_Methods\obj\Debug\Com_Methods.csproj.CoreCompileInputs.cache
+C:\Users\Sergey\source\repos\Com_Methods\Com_Methods\bin\Debug\Com_Methods.exe.config
+C:\Users\Sergey\source\repos\Com_Methods\Com_Methods\bin\Debug\Com_Methods.exe
+C:\Users\Sergey\source\repos\Com_Methods\Com_Methods\bin\Debug\Com_Methods.pdb
+C:\Users\Sergey\source\repos\Com_Methods\Com_Methods\obj\Debug\Com_Methods.exe
+C:\Users\Sergey\source\repos\Com_Methods\Com_Methods\obj\Debug\Com_Methods.pdb
+D:\Наука\Книги\Численные методы\Курс лекций ПМИ Численные методы\Проект\Com_Methods\Com_Methods\obj\Debug\Com_Methods.csproj.CoreCompileInputs.cache
+D:\Наука\Книги\Численные методы\Курс лекций ПМИ Численные методы\Проект\Com_Methods\Com_Methods\obj\Debug\Com_Methods.exe
+D:\Наука\Книги\Численные методы\Курс лекций ПМИ Численные методы\Проект\Com_Methods\Com_Methods\obj\Debug\Com_Methods.pdb
+D:\Наука\Книги\Численные методы\Курс лекций ПМИ Численные методы\Проект\Com_Methods\Com_Methods\Com_Methods.exe.config
+D:\Наука\Книги\Численные методы\Курс лекций ПМИ Численные методы\Проект\Com_Methods\Com_Methods\Com_Methods.exe
+D:\Наука\Книги\Численные методы\Курс лекций ПМИ Численные методы\Проект\Com_Methods\Com_Methods\Com_Methods.pdb
+D:\Наука\Книги\Численные методы\Курс лекций ПМИ Численные методы\Проект\Com_Methods\Com_Methods\ExcelDataReader.dll
+D:\Наука\Книги\Численные методы\Курс лекций ПМИ Численные методы\Проект\Com_Methods\Com_Methods\ExcelDataReader.xml
+D:\Наука\Книги\Численные методы\Курс лекций ПМИ Численные методы\Проект\Com_Methods\Com_Methods\alglibnet2.dll
+D:\Наука\Книги\Численные методы\Курс лекций ПМИ Численные методы\Проект\Com_Methods\Com_Methods\obj\Debug\Com_Methods.csprojAssemblyReference.cache
+D:\Наука\Книги\Численные методы\Курс лекций ПМИ Численные методы\Проект\Com_Methods\Com_Methods\obj\Debug\Com_Methods.csproj.CopyComplete
+D:\Наука\Книги\Численные методы\Курс ЧМ (ПМИ)\Семестр 5\Проект\Com_Methods\Com_Methods\obj\Debug\Com_Methods.csprojAssemblyReference.cache
+D:\Наука\Книги\Численные методы\Курс ЧМ (ПМИ)\Семестр 5\Проект\Com_Methods\Com_Methods\obj\Debug\Com_Methods.csproj.CopyComplete
+D:\Наука\Книги\Численные методы\Курс ЧМ (ПМИ)\Семестр 5\Проект\Com_Methods\Com_Methods\Com_Methods.exe.config
+D:\Наука\Книги\Численные методы\Курс ЧМ (ПМИ)\Семестр 5\Проект\Com_Methods\Com_Methods\obj\Debug\Com_Methods.exe
+D:\Наука\Книги\Численные методы\Курс ЧМ (ПМИ)\Семестр 5\Проект\Com_Methods\Com_Methods\obj\Debug\Com_Methods.pdb
+D:\Наука\Книги\Численные методы\Курс ЧМ (ПМИ)\Семестр 5\Проект\Com_Methods\Com_Methods\Com_Methods.exe
+D:\Наука\Книги\Численные методы\Курс ЧМ (ПМИ)\Семестр 5\Проект\Com_Methods\Com_Methods\Com_Methods.pdb
+D:\Наука\Книги\Численные методы\Курс ЧМ (ПМИ)\Семестр 5\Проект\Com_Methods\Com_Methods\alglibnet2.dll
+D:\Наука\Книги\Численные методы\Курс ЧМ (ПМИ)\Семестр 5\Проект\Com_Methods\Com_Methods\ExcelDataReader.dll
+D:\Наука\Книги\Численные методы\Курс ЧМ (ПМИ)\Семестр 5\Проект\Com_Methods\Com_Methods\ExcelDataReader.xml
+D:\Наука\Книги\Численные методы\Курс ЧМ (ПМИ)\Семестр 5\Проект\Com_Methods\Com_Methods\ExcelDataReader.pdb
+C:\Users\Sergey\Desktop\Com_Methods\Com_Methods\Com_Methods.exe.config
+C:\Users\Sergey\Desktop\Com_Methods\Com_Methods\obj\Debug\Com_Methods.exe
+C:\Users\Sergey\Desktop\Com_Methods\Com_Methods\obj\Debug\Com_Methods.pdb
+C:\Users\Sergey\Desktop\Com_Methods\Com_Methods\Com_Methods.exe
+C:\Users\Sergey\Desktop\Com_Methods\Com_Methods\Com_Methods.pdb
+C:\Users\Жопчики\Downloads\Com_Methods\Com_Methods\obj\Debug\Com_Methods.csprojAssemblyReference.cache
+C:\Users\Жопчики\Downloads\Com_Methods\Com_Methods\obj\Debug\Com_Methods.csproj.CoreCompileInputs.cache
+C:\Users\Жопчики\Downloads\Com_Methods\Com_Methods\Com_Methods.exe.config
+C:\Users\Жопчики\Downloads\Com_Methods\Com_Methods\obj\Debug\Com_Methods.exe
+C:\Users\Жопчики\Downloads\Com_Methods\Com_Methods\obj\Debug\Com_Methods.pdb
+C:\Users\Жопчики\Downloads\Com_Methods\Com_Methods\Com_Methods.exe
+C:\Users\Жопчики\Downloads\Com_Methods\Com_Methods\Com_Methods.pdb

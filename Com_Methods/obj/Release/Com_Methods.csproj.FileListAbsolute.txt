@@ -1,0 +1,19 @@
+D:\Наука\Книги\Численные методы\Курс лекций ПМИ Численные методы\Проект\Com_Methods\Com_Methods\bin\Release\Com_Methods.exe.config
+D:\Наука\Книги\Численные методы\Курс лекций ПМИ Численные методы\Проект\Com_Methods\Com_Methods\bin\Release\Com_Methods.exe
+D:\Наука\Книги\Численные методы\Курс лекций ПМИ Численные методы\Проект\Com_Methods\Com_Methods\bin\Release\Com_Methods.pdb
+D:\Наука\Книги\Численные методы\Курс лекций ПМИ Численные методы\Проект\Com_Methods\Com_Methods\bin\Release\ExcelDataReader.dll
+D:\Наука\Книги\Численные методы\Курс лекций ПМИ Численные методы\Проект\Com_Methods\Com_Methods\bin\Release\ExcelDataReader.xml
+D:\Наука\Книги\Численные методы\Курс лекций ПМИ Численные методы\Проект\Com_Methods\Com_Methods\obj\Release\Com_Methods.csproj.CoreCompileInputs.cache
+D:\Наука\Книги\Численные методы\Курс лекций ПМИ Численные методы\Проект\Com_Methods\Com_Methods\obj\Release\Com_Methods.exe
+D:\Наука\Книги\Численные методы\Курс лекций ПМИ Численные методы\Проект\Com_Methods\Com_Methods\obj\Release\Com_Methods.pdb
+D:\Наука\Книги\Численные методы\Курс ЧМ (ПМИ)\Семестр 5\Проект\Com_Methods\Com_Methods\bin\Release\Com_Methods.exe.config
+D:\Наука\Книги\Численные методы\Курс ЧМ (ПМИ)\Семестр 5\Проект\Com_Methods\Com_Methods\bin\Release\Com_Methods.exe
+D:\Наука\Книги\Численные методы\Курс ЧМ (ПМИ)\Семестр 5\Проект\Com_Methods\Com_Methods\bin\Release\Com_Methods.pdb
+D:\Наука\Книги\Численные методы\Курс ЧМ (ПМИ)\Семестр 5\Проект\Com_Methods\Com_Methods\bin\Release\alglibnet2.dll
+D:\Наука\Книги\Численные методы\Курс ЧМ (ПМИ)\Семестр 5\Проект\Com_Methods\Com_Methods\bin\Release\ExcelDataReader.dll
+D:\Наука\Книги\Численные методы\Курс ЧМ (ПМИ)\Семестр 5\Проект\Com_Methods\Com_Methods\bin\Release\ExcelDataReader.pdb
+D:\Наука\Книги\Численные методы\Курс ЧМ (ПМИ)\Семестр 5\Проект\Com_Methods\Com_Methods\bin\Release\ExcelDataReader.xml
+D:\Наука\Книги\Численные методы\Курс ЧМ (ПМИ)\Семестр 5\Проект\Com_Methods\Com_Methods\obj\Release\Com_Methods.csprojAssemblyReference.cache
+D:\Наука\Книги\Численные методы\Курс ЧМ (ПМИ)\Семестр 5\Проект\Com_Methods\Com_Methods\obj\Release\Com_Methods.csproj.CopyComplete
+D:\Наука\Книги\Численные методы\Курс ЧМ (ПМИ)\Семестр 5\Проект\Com_Methods\Com_Methods\obj\Release\Com_Methods.exe
+D:\Наука\Книги\Численные методы\Курс ЧМ (ПМИ)\Семестр 5\Проект\Com_Methods\Com_Methods\obj\Release\Com_Methods.pdb
