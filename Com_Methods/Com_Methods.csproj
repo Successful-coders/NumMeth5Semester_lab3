@@ -43,6 +43,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BCG.cs" />
+    <Compile Include="CG.cs" />
+    <Compile Include="E_Predconditioner.cs" />
     <Compile Include="Orthogonal_Transformation\Givens_Transformation.cs" />
     <Compile Include="Orthogonal_Transformation\Gram_Schmidt_Procedure.cs" />
     <Compile Include="Orthogonal_Transformation\Householder_Transformation.cs" />

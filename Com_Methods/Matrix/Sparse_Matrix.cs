@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Globalization;
 using System.IO;
 
 namespace Com_Methods
@@ -59,7 +60,7 @@ namespace Com_Methods
             {
                 for (int i = 0; i < N; i++)
                 {
-                    di[i] = Convert.ToDouble(Reader.ReadLine().Split(Separator, StringSplitOptions.RemoveEmptyEntries)[0]);
+                    di[i] = Convert.ToDouble(Reader.ReadLine().Split(Separator, StringSplitOptions.RemoveEmptyEntries)[0], CultureInfo.InvariantCulture);
                 }
             }
 
@@ -82,9 +83,9 @@ namespace Com_Methods
             var Reader3 = new StreamReader(File.Open(PATH + "autr.txt", FileMode.Open));
             for (int i = 0; i < Size; i++)
             {
-                jptr[i] = Convert.ToInt32 (Reader1.ReadLine().Split(Separator, StringSplitOptions.RemoveEmptyEntries)[0]);
-                altr[i] = Convert.ToDouble(Reader2.ReadLine().Split(Separator, StringSplitOptions.RemoveEmptyEntries)[0]);
-                autr[i] = Convert.ToDouble(Reader3.ReadLine().Split(Separator, StringSplitOptions.RemoveEmptyEntries)[0]);
+                jptr[i] = Convert.ToInt32 (Reader1.ReadLine().Split(Separator, StringSplitOptions.RemoveEmptyEntries)[0], CultureInfo.InvariantCulture);
+                altr[i] = Convert.ToDouble(Reader2.ReadLine().Split(Separator, StringSplitOptions.RemoveEmptyEntries)[0], CultureInfo.InvariantCulture);
+                autr[i] = Convert.ToDouble(Reader3.ReadLine().Split(Separator, StringSplitOptions.RemoveEmptyEntries)[0], CultureInfo.InvariantCulture);
             }
             Reader1.Close(); Reader2.Close(); Reader3.Close();
         }

@@ -39,3 +39,10 @@ C:\Users\Жопчики\Downloads\Com_Methods\Com_Methods\obj\Debug\Com_Methods.
 C:\Users\Жопчики\Downloads\Com_Methods\Com_Methods\obj\Debug\Com_Methods.pdb
 C:\Users\Жопчики\Downloads\Com_Methods\Com_Methods\Com_Methods.exe
 C:\Users\Жопчики\Downloads\Com_Methods\Com_Methods\Com_Methods.pdb
+C:\Users\Жопчики\Desktop\Даша\projects with git\чм 3 лаба\Com_Methods\obj\Debug\Com_Methods.csprojAssemblyReference.cache
+C:\Users\Жопчики\Desktop\Даша\projects with git\чм 3 лаба\Com_Methods\obj\Debug\Com_Methods.csproj.CoreCompileInputs.cache
+C:\Users\Жопчики\Desktop\Даша\projects with git\чм 3 лаба\Com_Methods\Com_Methods.exe.config
+C:\Users\Жопчики\Desktop\Даша\projects with git\чм 3 лаба\Com_Methods\obj\Debug\Com_Methods.exe
+C:\Users\Жопчики\Desktop\Даша\projects with git\чм 3 лаба\Com_Methods\obj\Debug\Com_Methods.pdb
+C:\Users\Жопчики\Desktop\Даша\projects with git\чм 3 лаба\Com_Methods\Com_Methods.exe
+C:\Users\Жопчики\Desktop\Даша\projects with git\чм 3 лаба\Com_Methods\Com_Methods.pdb

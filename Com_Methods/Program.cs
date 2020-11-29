@@ -52,82 +52,26 @@ namespace Com_Methods
         {
             try
             {
-                //прямые методы: Гаусс, LU-разложение, QR-разложение
-                var T1 = new Thread(() =>
-                {
-                    int N = 3;
-                    var A = new Matrix(N, N);
-                    var X_true = new Vector(N);
-                    
-                    //заполнение СЛАУ
-                    for (int i = 0; i < N; i++)
-                    {
-                        for (int j = 0; j < N; j++)
-                        {
-                            A.Elem[i][j] = 1.0 / (i + j + 1.0);
-                        }
-                        X_true.Elem[i] = 1;
-                    }
-
-                    //правая часть
-                    var F = A * X_true;
-
-                    //решатель
-                    var Solver = new Gauss_Method();
-                    //var Solver = new LU_Decomposition(A);
-                    //var Solver = new QR_Decomposition(A, QR_Decomposition.QR_Algorithm.Householder);
-
-                    var X = Solver.Start_Solver(A, F);
-                    
-                    X.Console_Write_Vector();
-                });
-
-                //итерационные блочные методы: Якоби, Гаусса-Зейделя и SOR
-                var T2 = new Thread(() =>
-                {
-                    var A = new Matrix("Data\\Dense_Format\\");
-                    var X_true = new Vector(A.N);
-                    
-                    for (int i = 0; i < A.N; i++)
-                    {
-                        A.Elem[i][i] *= 1.0e-1;
-                        X_true.Elem[i] = 1.0;
-                    }
-                    
-                    //вектор правой части
-                    var F = A * X_true;
-                    
-                    Console.WriteLine("Cond(A) = " + A.Cond_InfinityNorm());
-
-                    /*
-                    //блочная система
-                    int SIZE_BLOCK = 100;
-                    var A = new Block_Matrix("Data\\Dense_Format\\", SIZE_BLOCK);
-                    var F = new Block_Vector("Data\\Dense_Format\\", SIZE_BLOCK);
-                    */
-                    //решатели
-                    var Solver = new Jacobi_Method(30000, 1e-12);
-                    var X = Solver.Start_Solver(A, F);
-                    //var Solver = new SOR_Method (30000, 1e-12);
-                    //var X = Solver.Start_Solver(A, F, 1.85);
-                    X.Console_Write_Vector();
-                });
-
                 //методы на подпространствах Крылова: CSlR-формат матрицы
                 var T3 = new Thread(() =>
                 {
                     //разреженная матрица
-                    var A = new CSlR_Matrix("Data\\Sparse_Format\\Systems1\\SPD\\");
+                    var A = new CSlR_Matrix("Data\\Sparse_Format\\Systems1\\NonSPD\\");
                     //заполнение вектора истинного решения и правой части
-                    var X_True = new Vector(A.N);
                     var F = new Vector(A.N);
+                    var X_True = new Vector(A.N);
+                    int pre = 1;
+                    //заполнение вектора истинного решения и правой части
                     for (int i = 0; i < A.N; i++) { X_True.Elem[i] = 1.0; }
                     A.Mult_MV(X_True, F);
+                    var Solver = new BCG(30000, 1e-12);
+                    var X = Solver.Start_Solver(A, F, 2);
+                    Console.WriteLine(Tools.Relative_Error(X, X_True));
                 });
 
                 //время решения
                 Console.WriteLine(Tools.Measurement_Time(T3));
-
+                
             }
             catch (Exception E)
             {
